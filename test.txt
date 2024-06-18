@@ -1,3 +1,5 @@
 Hi This is first git hub file
 
 hello this is the git session 18-Jun-2024
+
+I added my new changes in SC
